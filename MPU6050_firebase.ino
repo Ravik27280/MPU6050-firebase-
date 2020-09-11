@@ -4,11 +4,11 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 
-#define FIREBASE_AUTH "BHZGCfK0qiHX5FUZBC2XH8TwMxXsLlFmfUNsqWjA"
-#define FIREBASE_HOST "ne-50b2c.firebaseio.com"
+#define FIREBASE_AUTH "Secrats"
+#define FIREBASE_HOST "Link"
 
-const char *ssid =  "Krishna";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "Ravia@9450";
+const char *ssid =  "SSID";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "Pass";
 
 // MPU6050 Slave Device Address
 const uint8_t MPU6050SlaveAddress = 0x68;
